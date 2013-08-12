@@ -1,0 +1,9 @@
+Code Fellows August 2013 App-a-Day Assignment - Views Practice
+
+This is an exercise done with Ryan Bates' SimpleForm RailsCasts source code.
+
+Run these commands to try it out.
+
+  bundle
+  rake db:setup
+  rails s
